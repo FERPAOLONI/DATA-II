@@ -16,5 +16,11 @@ Para ejecutar este notebook directamente en Google Colab, hacé clic en el sigui
 - Ajuste de hiperparámetros con GridSearchCV  
 - Evaluación de desempeño de modelos
 
+## 📊 Objetivo del proyecto
 
+Analizar factores que afectan el rendimiento de la soja (SYUA), detectar outliers, normalizar datos, aplicar modelos de regresión y optimizar sus hiperparámetros.
+
+## 📬 Contacto
+
+fernando_paoloni@yahoo.com.ar
 
